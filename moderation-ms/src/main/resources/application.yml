@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: moderation-ms
+
+server:
+  port: 8081
